@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "354861044440",
+    "firebase_url": "https://mobicafe-6000f.firebaseio.com",
+    "project_id": "mobicafe-6000f",
+    "storage_bucket": "mobicafe-6000f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354861044440:android:dd415b6ddedfdd3b",
+        "android_client_info": {
+          "package_name": "com.login.cz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354861044440-oh0m8r3ilku5g0j4op3sr0c7c7vrfvpk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYpQXhqHRWV1wzPUDjKLgU48MyiO7qSk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354861044440-oh0m8r3ilku5g0j4op3sr0c7c7vrfvpk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
